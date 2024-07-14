@@ -23,7 +23,7 @@ The extratorrent mirror locations provided in this article are checked daily. Yo
 How do ExtraTorrent proxy sites work?
 *********
 
-Proxy sites act as a bridge between your connection and the target website you want to access. When using Extratorrent proxy sites, your browser's internet traffic will be routed through the proxy server before reaching the Extratorrent mirror sites.
+Proxy sites act as a bridge between your connection and the target website you want to access. When using `Extratorrent proxy sites <https://unblocktorrent.org/extratorrent-proxy-unblock/>`_, your browser's internet traffic will be routed through the proxy server before reaching the Extratorrent mirror sites.
 
 Not only will this help you unblock Extratorrent, but it will also give you the opportunity to access the Extratorrent website even if it is blocked in your area.
 
