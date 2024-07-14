@@ -1,5 +1,5 @@
 ##################
-ExtraTorrent Proxy List — Unblocked ExtraTorrent Mirror Sites 2022
+ExtraTorrent Proxy List — Unblocked ExtraTorrent Mirror Sites 2024
 ##################
 
 If you're facing a geographic restriction from ExtraTorrent, you've come to the right place. Extratorrent blocked in US, UK, Spain, Russia, France, Turkey, Pakistan, India and Italy. We will tell you how to use an extraterent proxy in your area. All you have to do is install a VPN and browse your site. You can check the list of working Extratorrent locations below to take advantage of it.
@@ -12,6 +12,7 @@ ExtraTorrent Mirror List
 
 - https://extratorrent.st
 - https://extratorrent.proxyninja.org
+- https://extratorrent.proxyninja.net
 - https://extratorrent-proxy.github.io
 
 
@@ -28,7 +29,7 @@ Not only will this help you unblock Extratorrent, but it will also give you the 
 
 
 *********
-Top 5 ExtraTorrent Alternatives & Proxy List [New 2022]
+Top 5 ExtraTorrent Alternatives & Proxy List [New 2024]
 *********
 
 1. The pirate bay
