@@ -1,5 +1,5 @@
 {
-	"name": "extratorrent-proxy/php-proxy",
+	"name": "extra-proxy/php-proxy",
 	"type": "library",
 	"keywords": ["php proxy", "proxy script", "php web proxy", "web proxy", "php proxy script", "torrent", "unblock"],
 	"license": "MIT",
